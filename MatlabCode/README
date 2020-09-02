@@ -1,0 +1,3 @@
+changep is a script that allows to change the values of the main input parameters detailed in the excel sheet "layerdat.xlxs". It can be considered as the main solver of the model. 
+More inputs such as the temperature and other physical constant are detailed in "pnParamsHCT.m"
+changepplot plots the solutions calculated by changep. The outputs are a band diagram, a current plot and a JV curve plot.
