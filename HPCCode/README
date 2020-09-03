@@ -1,0 +1,2 @@
+"build_array.sh" read the number of main files that are in a folder of the HPC.
+The main files are created with the Matlab scripts in the folder "Main"
